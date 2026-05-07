@@ -1,16 +1,31 @@
-# React + Vite
+Fullstack Intern Task - React Assessment
+As previously discussed, this assessment focuses exclusively on React.js. While Node.js was not within the initial scope of my skillset, I have prioritized demonstrating my proficiency with React as requested.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Candidate Info
+Name:Sakthivignesh N
+Contact:sakthivigneshn74@gmail.com | 6369435332
+Portfolio/GitHub: https://github.com/Sakthi74/fullstack-intern-task/edit/master
 
-Currently, two official plugins are available:
+ Tech Stack
+This project is built as a Single Page Application (SPA) using modern React tools.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Frontend Framework: React (via Vite)
+Routing:React Router DOM
+HTTP Client:Axios
+Styling: Tailwindcss
+API Strategy: Mock/Dummy API Endpoints (Simulated Backend)
 
-## React Compiler
+Project Overview
+This application demonstrates core frontend development skills including component composition, state management, routing, and asynchronous data fetching. 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Note on Backend: As per the assessment scope focusing on React , a full Node.js backend was not implemented. Instead, backend functionalities are simulated using dummy API endpoints to demonstrate API integration capabilities using axios
 
-## Expanding the ESLint configuration
+Setup & Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Prerequisites
+ Node.js installed on your machine
+ npm or yarn package manager
+
+Installation Steps
+Due to repository size constraints, the node_modules folder has not been committed to Git. Please follow these steps to set up the project locally:
+so please install node packages by using the command npm i
